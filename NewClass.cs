@@ -7,9 +7,8 @@ public class Class1
 {
 	public Class1()
 	{
-        static void Method1()
-        {
-            Console.WriteLine("Pozivanje Metode");
-        }
-    }
+		//
+		// TODO: Add constructor logic here
+		//
+	}
 }
